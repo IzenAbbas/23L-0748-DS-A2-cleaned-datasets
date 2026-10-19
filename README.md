@@ -1,7 +1,5 @@
 # 23L-0748 - Cleaned datasets for CS4048 Data Science, Assignment 2
 
-**Version:** v1.0 · **Date:** 19 October 2026 · **Author:** 23L-0748
-
 These are the cleaned datasets produced in Assignment 2 (EDA). Assignment 3 loads them from the `v1.0` tag of this repository. Any later change to the cleaning will be published as a new version; v1.0 will not be overwritten.
 
 | File | Rows × cols | Original source |
